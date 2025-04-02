@@ -1,6 +1,6 @@
 # leccion-git-promo-52
 
-Leccion de Git de la promo 52, estamos a aprendiendo a hacer un readme
+Leccion de Git de la promo 52, estamos a aprendiendo a hacer un readme, quiero hacer cambios para bajarlos. 
 
 ## Comandos
 
