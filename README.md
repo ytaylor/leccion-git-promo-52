@@ -16,6 +16,8 @@ Prar subir ficheros a un repositorio:
 git add -A #añade todos los ficheros  a git
 git commit -m "actualizar el readme" 
 git push  
+
+git pull #para bajar los cambios de un repositorio
 ```
 
 
